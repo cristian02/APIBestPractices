@@ -56,11 +56,13 @@ Please adhere to the code style, write clear commit messages, and ensure all tes
 ## License
 This project is licensed under the [ITS](https://its.cr/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Credits
 This project uses the following third-party libraries:
 
 [Bootstrap](https://getbootstrap.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## Contact
 If you have any questions, feedback, or issues, feel free to reach out to us at support@its.work
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
