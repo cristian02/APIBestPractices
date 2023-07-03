@@ -9,7 +9,8 @@ A brief description of what the project does and its main features or goals.
 - [Configuration](#configuration)
 - [Contributing](#contributing)
 - [License](#license)
-- [Credits](#credits)
+- [Credits and Acknowledgments](#credits)
+- [Troubleshooting](#troubleshooting)
 - [Contact](#contact)
 
 ## Installation
@@ -57,10 +58,14 @@ Please adhere to the code style, write clear commit messages, and ensure all tes
 This project is licensed under the [ITS](https://its.cr/).
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Credits
-This project uses the following third-party libraries:
+## Credits and Acknowledgments
+If your project includes third-party libraries, frameworks, or other resources, acknowledge them in this section. 
 
 [Bootstrap](https://getbootstrap.com/)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Troubleshooting
+If there are known issues or troubleshooting tips, include a section that addresses common problems users might encounter. Offer solutions or workarounds whenever possible.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contact
